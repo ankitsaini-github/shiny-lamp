@@ -10,7 +10,14 @@ week days:
 6. friday
 7.saturday
 
+holidays :
+1. saturday
+2. sunday
 
 thank you :)
 
+
+done
+
 final copy
+
